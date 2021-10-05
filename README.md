@@ -21,3 +21,7 @@
 ```python
 print('hello world')
 ```
+| Tables | Are | Cool|
+| :------|:---:| ----:|
+| col 3 is |some wordy text|$1600|
+| col 2 is |centered       |$12  | 
