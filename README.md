@@ -1,5 +1,11 @@
 # 000
 ## 第六組 C108118244廖荃宜
+# 244
+## 244
+### 244
+#### 244 
+##### 244
+###### 244
  
 ## 組員 
 #### C108118244 
@@ -25,3 +31,10 @@ print('hello world')
 | :------|:---:| ----:|
 | col 3 is |some wordy text|$1600|
 | col 2 is |centered       |$12  | 
+> Emphasis, aka italics, tiht asterisks or underscores.  
+> 
+> Strong emphasis, aka bold, with **asterisks** or **underscores**.
+> 
+> Combined emphasis with **asterisks and underscores**.
+> 
+> Strikethrough uses two tildes.  ~~Scratch this~~
